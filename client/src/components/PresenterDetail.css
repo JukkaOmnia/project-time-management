@@ -1,0 +1,27 @@
+.card-body{
+    background-color: #000000;
+    color:#ffffff;
+    justify-content: space-between;
+    display: flex;
+    flex-direction: column;
+  }
+  .card-body h5 {
+    text-align: left;
+    justify-content: space-between;
+    display: flex;
+}
+.keyword span{
+  background-color:red;
+}
+ 
+  .buttonPresenterDetail{
+      display: flex;
+      justify-content: space-around;
+  }
+  
+  .deleteButton{
+      background-color: red;
+  }
+  .backButton{
+    margin-left: -95%;
+  }
